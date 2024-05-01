@@ -1,0 +1,19 @@
+{
+  "students": [
+    {
+      "fullname": "Teszt Modosítva",
+      "email": "teszek@gmail.com",
+      "id": "5e1e"
+    },
+    {
+      "id": "75e2",
+      "fullname": "Teszt Elek",
+      "email": "tesztelek@gmail.com"
+    },
+    {
+      "id": "3749",
+      "fullname": "Nemis Tanulok",
+      "email": "nemistanulok11@gmail.com"
+    }
+  ]
+}
