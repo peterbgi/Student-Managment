@@ -31,7 +31,7 @@ const emailvalidation = (email) => {
 <template>
     <form class="w-75 mt-3 mx-auto" @submit.prevent="addStudent">
         <div class="mb-3">
-            <label for="fullname" class="form-label">Tanuló neve</label>
+            <label for="fullname" class="form-label">Tanuló név</label>
             <input type="text" class="form-control" v-model="newStudentData.fullname" placeholder="PL: Példa Bence" id="fullname">
         </div>
 
